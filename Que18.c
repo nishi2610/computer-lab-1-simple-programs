@@ -8,4 +8,5 @@ int main()
     scanf("%f", &b);
     printf("Area is %.2f\n", l * b);
     printf("Perimeter is %.2f\n", 2 * (l + b));
+    return 0;
 }
