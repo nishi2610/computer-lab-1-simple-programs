@@ -10,4 +10,5 @@ void main()
     diff=a-b;
     prod=a*b;
     printf("The sum of A and B is %d. \n The subtraction is %d. \n And the product is %d. ", sum,diff,prod);
+    return 0;
 }
