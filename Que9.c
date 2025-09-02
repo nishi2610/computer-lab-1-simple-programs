@@ -6,4 +6,5 @@ int main()
     scanf("%f", &r);
     d= r/48;
     printf("amount in dollars is %.2f\n",d);
+    return 0;
 }
