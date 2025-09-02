@@ -7,4 +7,5 @@ int main()
     hours= min/60;
     extra_min= min%60;
     printf("%d hours and %d minutes",hours, extra_min);
+    return 0;
 }
