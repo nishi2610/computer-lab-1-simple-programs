@@ -8,7 +8,7 @@ This repository contains the codes for the following questions:
 7. Convert minutes into hours.
 8. Convert dollars into Rs. Where 1 $ = 48 Rs.
 9. Convert Rs. into dollars where 1 $ = 48 Rs.
-10.Convert dollars into pound where 1 $ = 48 Rs. And 1 pound = 70 Rs.
+10. Convert dollars into pound where 1 $ = 48 Rs. And 1 pound = 70 Rs.
 11.Convert grams into kg.
 12.Convert kgs into grams.
 13.Convert bytes into KB, MB and GB.
