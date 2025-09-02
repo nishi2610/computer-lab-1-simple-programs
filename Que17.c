@@ -6,4 +6,5 @@ int main()
     scanf("%f", &a);
     printf("Area is %f\n", a *a);
     printf("Perimeter is %f\n", 4 * a);
+    return 0;
 }
