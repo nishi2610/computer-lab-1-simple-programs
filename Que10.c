@@ -6,4 +6,5 @@ int main()
     scanf("%f", &d);
     p = (d * 48) / 70;
     printf("amount in pounds is %.2f\n",p );
+    return 0;
 }
