@@ -6,4 +6,5 @@ int main()
     scanf("%f", &gs);
     d= gs * 0.10;
     printf("Net sales is %f\n", gs - d);
+    return 0;
 }
