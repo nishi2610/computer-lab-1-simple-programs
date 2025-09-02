@@ -7,4 +7,5 @@ int main()
     printf("Enter second number");
     scanf("%d", &b);
     printf("After swapping, first number is %d  and second number is %d\n", b, a);
+    return 0;
 }
