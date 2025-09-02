@@ -12,4 +12,5 @@ int main()
     float avg = t / 3.0;
     printf("Total is %d\n", t);
     printf("Average is %.2f\n", avg);
+    return 0;
 }
