@@ -8,4 +8,5 @@ int main()
     scanf("%f", &b);
     a =  (h * b) / 2;
     printf("Area: %.2f\n",a);
+    return 0;
 }
