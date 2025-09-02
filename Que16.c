@@ -11,5 +11,6 @@ printf("Enter time in years");
 scanf("%f", &n);
 i = (p * r * n) / 100;
 printf("Simple Interest= %.2f\n", i);
+return 0;
 }
 
