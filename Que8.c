@@ -6,4 +6,5 @@ int main()
     scanf("%f", &d);
     r = d * 48
     printf("Amount in rupees is %f\n",r);
+    return 0;
 }
