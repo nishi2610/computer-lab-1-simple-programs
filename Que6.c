@@ -7,4 +7,5 @@ int main()
     scanf("%f", &hour);
     min=hour*60;
     printf("The total mins is %d", min);
+    return 0;
 }
