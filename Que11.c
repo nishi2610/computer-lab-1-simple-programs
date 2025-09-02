@@ -6,4 +6,5 @@ int main()
     scanf("%f", &g);
     kg = g/1000;
     printf("Weight in kilograms is %f\n",kg);
+    return 0;
 }
