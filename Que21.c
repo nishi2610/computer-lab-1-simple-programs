@@ -7,4 +7,5 @@ int main()
     a = gross * 0.10;
     d = gross * 0.03;
     printf("Net salary: %f\n", gs + a - d);
+    return 0;
 }
